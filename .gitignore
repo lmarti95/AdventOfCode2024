@@ -36,3 +36,5 @@ main
 
 *.idea
 .DS_Store
+
+day*/**/*.txt
